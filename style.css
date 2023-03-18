@@ -1,0 +1,36 @@
+#div_app{
+	margin: auto;
+	text-align: center;
+	border: 1px solid black;
+	width: 650px;
+	margin-top: 10%;
+}
+#div_game{
+	margin: auto;
+	width: 600px;
+	height: 300px;
+	border: 1px solid black;
+	position: relative;
+}
+.klocek{
+	position: absolute;
+	width: 100px;
+	height: 20px;
+	background-color: black;
+}
+.gracz{
+	position: absolute;
+	width: 100px;
+	height: 20px;
+	background-color: red;
+}
+.kula{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background-color: blue;
+	border-radius: 100px;
+}
+.ukryty{
+	display: none;
+}
