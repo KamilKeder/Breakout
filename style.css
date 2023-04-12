@@ -1,3 +1,12 @@
+body{
+  background: linear-gradient(
+    to left,
+    #3c4043 0%,
+    #3c4043 50%,
+    #ffc107 50%,
+    #ffc107 100%
+  );
+}
 #div_app{
 	margin: auto;
 	text-align: center;
